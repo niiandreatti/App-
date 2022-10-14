@@ -1,0 +1,12 @@
+label:
+    id: moeda1
+    text: "dolar"
+label:
+    id: moeda2
+    text: "euro"
+label:
+    id:moeda3
+    text: "real"
+label:
+    id:moeda4
+    text: "libra"
